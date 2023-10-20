@@ -1,0 +1,15 @@
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\bin\Debug\net6.0\Excep.exe
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\bin\Debug\net6.0\Excep.deps.json
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\bin\Debug\net6.0\Excep.runtimeconfig.json
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\bin\Debug\net6.0\Excep.dll
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\bin\Debug\net6.0\Excep.pdb
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.csproj.AssemblyReference.cache
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.AssemblyInfoInputs.cache
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.AssemblyInfo.cs
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.csproj.CoreCompileInputs.cache
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.dll
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\refint\Excep.dll
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.pdb
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\Excep.genruntimeconfig.cache
+C:\Users\IVAN GONZALEZ\source\repos\Excep\Excep\obj\Debug\net6.0\ref\Excep.dll
